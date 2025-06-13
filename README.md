@@ -5,7 +5,7 @@ A basic calculator that takes two numbers and performs various mathematical oper
 ## ⚙️ How It Works
 
 - You enter two numbers.
-- You choose an operation: `+`, `-`, `*`, `/`, or `log`.
+- You choose an operation: `+`, `-`, `*`, `/`, `^` or `log`.
 - The program returns the result.
 
 ## ➕ Supported Operations
