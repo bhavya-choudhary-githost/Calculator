@@ -1,7 +1,7 @@
 import math
 
 num_1 = float(input('Enter first number: '))
-op = input("Enter operator(=, - ,/ , *, ^, log): ")
+op = input("Enter operator(+, -, /, *, ^, log): ")
 num_2 = float(input('Enter second number: '))
 
 if op == '+':
